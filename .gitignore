@@ -1,0 +1,6 @@
+cron.log
+data/
+logs/
+reports/
+_pycache_/
+*.pyc
